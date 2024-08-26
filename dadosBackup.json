@@ -1,0 +1,8 @@
+{
+  "todo": [
+    { "id": "1", "title": "css3", "completed": true },
+    { "id": "2", "title": "html5", "completed": true },
+    { "id": "3", "title": "javascript", "completed": true },
+    { "id": "4", "title": "projetos práticos", "completed": true }
+  ]
+}

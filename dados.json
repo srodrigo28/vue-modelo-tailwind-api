@@ -1,8 +1,24 @@
 {
-    "todo": [
-        {"id": 1, "title": "energia", "completed": true},
-        {"id": 2, "title": "agua", "completed": false},
-        {"id": 3, "title": "carro", "completed": true},
-        {"id": 4, "title": "mercado", "completed": false}
-    ]
+  "todo": [
+    {
+      "id": "1",
+      "title": "css3",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "html5",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "javascript",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "projetos práticos",
+      "completed": true
+    }
+  ]
 }
