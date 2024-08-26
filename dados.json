@@ -1,0 +1,8 @@
+{
+    "todo": [
+        {"id": 1, "title": "energia", "completed": true},
+        {"id": 2, "title": "agua", "completed": false},
+        {"id": 3, "title": "carro", "completed": true},
+        {"id": 4, "title": "mercado", "completed": false}
+    ]
+}
